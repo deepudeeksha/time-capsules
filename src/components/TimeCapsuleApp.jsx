@@ -28,7 +28,7 @@ const Button = ({ onClick, children }) => (
 
 const TimeCapsuleApp = () => {
   const [capsules, setCapsules] = useState([
-    { id: 1, title: "First Meeting", date: "2016-10-01", description: "Flirting Phase", video: "/assets/first_capsule.mp4" },
+    { id: 1, title: "First Meeting", date: "2016-10-01", description: "Flirting Phase", video: "../../public/assets/first_capsule.mp4" },
     { id: 2, title: "In love!!!", date: "2017-01-01", description: "Dating Phase", video: "/assets/paris_trip.mp4" },
     { id: 3, title: "American University", date: "2019-08-26", description: "Hustle Days", video: "/assets/uni.mp4" },
   ]);
