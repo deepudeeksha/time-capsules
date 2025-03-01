@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/time-capsules/static/css/main.d6490bf8.css",
-    "main.js": "/time-capsules/static/js/main.1174a719.js",
+    "main.js": "/time-capsules/static/js/main.5cc4573c.js",
     "static/media/background.JPG": "/time-capsules/static/media/background.710c44555d654a5b1314.JPG",
     "index.html": "/time-capsules/index.html",
     "main.d6490bf8.css.map": "/time-capsules/static/css/main.d6490bf8.css.map",
-    "main.1174a719.js.map": "/time-capsules/static/js/main.1174a719.js.map"
+    "main.5cc4573c.js.map": "/time-capsules/static/js/main.5cc4573c.js.map"
   },
   "entrypoints": [
     "static/css/main.d6490bf8.css",
-    "static/js/main.1174a719.js"
+    "static/js/main.5cc4573c.js"
   ]
 }
